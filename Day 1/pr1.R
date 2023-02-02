@@ -2,7 +2,8 @@ Program:
 data <- read.csv("users.csv")
 View (data)
 
-Output:
+Output:-
+
 > mean(data$age)
 [1] 42.74254
 > median(data$age)
